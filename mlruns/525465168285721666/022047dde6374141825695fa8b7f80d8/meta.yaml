@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/525465168285721666/022047dde6374141825695fa8b7f80d8/artifacts
+end_time: 1735566649174
+entry_point_name: ''
+experiment_id: '525465168285721666'
+lifecycle_stage: active
+run_id: 022047dde6374141825695fa8b7f80d8
+run_name: delightful-fowl-832
+run_uuid: 022047dde6374141825695fa8b7f80d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735566643533
+status: 3
+tags: []
+user_id: dioneousseynou

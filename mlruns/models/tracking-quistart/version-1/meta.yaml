@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735559188146
+current_stage: None
+description: ''
+last_updated_timestamp: 1735559188146
+name: tracking-quistart
+run_id: 4702f4a7919640a6aa27f6818e851f97
+run_link: ''
+source: mlflow-artifacts:/525465168285721666/4702f4a7919640a6aa27f6818e851f97/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/525465168285721666/4702f4a7919640a6aa27f6818e851f97/artifacts/iris_model
+user_id: null
+version: 1
